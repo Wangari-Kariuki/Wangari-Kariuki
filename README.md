@@ -23,7 +23,7 @@
 
 ---
 ## 📫 How to Reach Me
-- **Portfolio:** [wangari-s-portfolio.vercel.app](https://wangari-s-portfolio.vercel.app)
+- **Portfolio:** [wangari-s-portfolio.vercel.app](https://my-portfolio-wangari-kariuki-wangari-kariukis-projects.vercel.app/)
 - **LinkedIn:** [Esther Wangari Kariuki](https://www.linkedin.com/in/esther-wangari-kariuki/)
 - **Email:** [wangarikariuki@gmail.com](mailto:wangarikariuki@gmail.com)
 
