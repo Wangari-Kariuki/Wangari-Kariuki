@@ -12,7 +12,7 @@
 
 ---
 ## 🔧 My Projects
-### [Portfolio Website](https://wangari-s-portfolio.vercel.app)
+### https://my-portfolio-3mcce2ito-wangari-kariukis-projects.vercel.app/
 - A responsive portfolio built with **React.js** to showcase my skills and projects.
 
 ### Salama Mind
