@@ -3,7 +3,7 @@
 ---
 
 ## ✨About me
-**Student: ** Computer science at Multimedia University of Kenya
+**Student: ** Computer science
 🙋🏽‍♀️ **Languages: ** HTML, CSS, JavaScript, Dart, Python
 🎭**Frameworks & Libraries:**  React.js, Flutter, Django
 🚘**Databases:** MySQL
