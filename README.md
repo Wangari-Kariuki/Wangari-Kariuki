@@ -22,6 +22,13 @@
 - Features: Risk alerts, monthly reports, audit logs, and a regulations overview.
 
 ---
+### Lebed Healthways business portfolio website
+- **Features:** Intuitive  clean business portfolio for elbedm, a physiotherapy clinic  based in Nairobi Kenya.
+- **Goal:** To offer an accessible infO and contact site for ptential Lebed healthways clients and investors.
+- **Technologies:** React Js, Tailwid, Framer Motion
+ **[Website Link** www.lebedhealthways.com]
+---
+
 ## 📫 How to Reach Me
 - **Portfolio:** [wangari-s-portfolio.vercel.app](https://my-portfolio-wangari-kariuki-wangari-kariukis-projects.vercel.app/)
 - **LinkedIn:** [Esther Wangari Kariuki](https://www.linkedin.com/in/esther-wangari-kariuki/)
