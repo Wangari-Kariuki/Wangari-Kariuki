@@ -24,7 +24,7 @@
 ---
 ### Lebed Healthways business portfolio website
 - **Features:** Intuitive  clean business portfolio for elbedm, a physiotherapy clinic  based in Nairobi Kenya.
-- **Goal:** To offer an accessible infO and contact site for ptential Lebed healthways clients and investors.
+- **Goal:** To offer an accessible info and contact site for ptential Lebed healthways clients and investors.
 - **Technologies:** React Js, Tailwid, Framer Motion
  **[Website Link** www.lebedhealthways.com]
 ---
