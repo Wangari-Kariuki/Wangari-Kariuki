@@ -20,7 +20,12 @@
 - **Goal:** To offer an accessible info and contact site for ptential Lebed healthways clients and investors.
 - **Technologies:** React Js, Tailwid, Framer Motion
  **[Website Link** www.lebedhealthways.com]
-[Watch Demo Video](https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/screen-capture.mp4)
+<table>
+  <tr>
+      <td align="center"><img src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/lebed.PNG" width="200" height="150"></td>
+    <td align="center"><img src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/lebed2.PNG" width="200" height="150"></td>
+  </tr>
+</table>
 
 ---
 
