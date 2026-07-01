@@ -47,7 +47,7 @@
 
 
 ## 📫 How to Reach Me
-- **Portfolio:** [My portfolio]([https://www.linkedin.com/in/esther-wangari-kariuki/](https://www.estherk.site/)
+- **Portfolio:** [My portfolio](https://www.estherk.site/)
 - **LinkedIn:** [Esther Wangari Kariuki](https://www.linkedin.com/in/esther-wangari-kariuki/)
 - **Email:** [wangarikariuki@gmail.com](mailto:wangarikariuki@gmail.com)
 
