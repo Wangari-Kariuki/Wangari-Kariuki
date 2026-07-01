@@ -19,7 +19,7 @@
 - **Features:** Intuitive  clean business portfolio for elbedm, a physiotherapy clinic  based in Nairobi Kenya.
 - **Goal:** To offer an accessible info and contact site for ptential Lebed healthways clients and investors.
 - **Technologies:** React Js, Tailwid, Framer Motion
- **[Website Link** www.lebedhealthways.com]
+ **[More about this project ](https://github.com/Wangari-Kariuki/LEBED)]
 <table>
   <tr>
       <td align="center"><img src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/lebed.PNG" width="200" height="150"></td>
@@ -32,7 +32,13 @@
 
 ### Compliance Management System (Hackathon Project)
 - Features: Risk alerts, monthly reports, audit logs, and a regulations overview.
-[Watch Demo Video](https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/web_video.mp4)
+
+<table>
+  <tr>
+      <td align="center"><img src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/datashield1.PNG" width="200" height="150"></td>
+    <td align="center"><img src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/blob/main/datashield2.PNG" width="200" height="150"></td>
+  </tr>
+</table>
 
 
 ## 📫 How to Reach Me
