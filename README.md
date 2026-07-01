@@ -22,7 +22,7 @@
  **[Website Link** www.lebedhealthways.com]
 
     <video width = "300" controls>
-      <source src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/screen-capture.mp4" type="video/mp4">
+      <source src = "https://raw.githubusercontent.com/Wangari-Kariuki/Wangari-Kariuki/screen-capture.mp4" type="video/mp4">
     </video>
 
 ---
@@ -32,7 +32,7 @@
 - Features: Risk alerts, monthly reports, audit logs, and a regulations overview.
 
     <video width = "400" controls>
-      <source src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/web_video.mp4" type="video/mp4">
+      <source src = "https://raw.githubusercontent.com/Wangari-Kariuki/Wangari-Kariuki/web_video.mp4" type="video/mp4">
     </video>
 
 
