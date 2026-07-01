@@ -20,21 +20,21 @@
 - **Goal:** To offer an accessible info and contact site for ptential Lebed healthways clients and investors.
 - **Technologies:** React Js, Tailwid, Framer Motion
  **[Website Link** www.lebedhealthways.com]
-  <iframe>
+
     <video width = "300" controls>
       <source src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/screen-capture.mp4" type="video/mp4">
     </video>
-  </iframe>
+
 ---
 
 
 ### Compliance Management System (Hackathon Project)
 - Features: Risk alerts, monthly reports, audit logs, and a regulations overview.
-  <iframe>
+
     <video width = "400" controls>
       <source src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/web_video.mp4" type="video/mp4">
     </video>
-  </iframe>
+
 
 
 ## 📫 How to Reach Me
