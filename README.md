@@ -1,4 +1,4 @@
-# Hi! I'm Esther Wangari Kariuki 👋🏽, a passionate Web Developer with expertise in **React.js**, **Flutter**, and other modern web technologies. I love building intuitive and efficient user interfaces and tackling challenging problems through code. I am also an active learner, exploring areas like backend development with **Django** and** cloud computing with Azure.**
+# Hi! I'm Esther Wangari Kariuki 👋🏽,Computer Science student building full-stack healthcare and productivity applications. Currently focused on React, Django,and cloud deployment.**
 
 ---
 
@@ -14,20 +14,28 @@
 ## 🔧 My Projects
 ### https://my-portfolio-wangari-kariuki-wangari-kariukis-projects.vercel.app/
 - A responsive portfolio built with **React.js** to showcase my skills and projects.
-
-### Salama Mind
-- A mental health support platform connecting users with psychologists and providing emergency response features. *(Part of the PLP Software Development Program.)*
-
-### Compliance Management System (Hackathon Project)
-- Features: Risk alerts, monthly reports, audit logs, and a regulations overview.
-
 ---
 ### Lebed Healthways business portfolio website
 - **Features:** Intuitive  clean business portfolio for elbedm, a physiotherapy clinic  based in Nairobi Kenya.
 - **Goal:** To offer an accessible info and contact site for ptential Lebed healthways clients and investors.
 - **Technologies:** React Js, Tailwid, Framer Motion
  **[Website Link** www.lebedhealthways.com]
+  <iframe>
+    <video width = "300" controls>
+      <source src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/screen-capture.mp4" type="video/mp4">
+    </video>
+  </iframe>
 ---
+
+
+### Compliance Management System (Hackathon Project)
+- Features: Risk alerts, monthly reports, audit logs, and a regulations overview.
+  <iframe>
+    <video width = "400" controls>
+      <source src = "https://github.com/Wangari-Kariuki/Wangari-Kariuki/web_video.mp4" type="video/mp4">
+    </video>
+  </iframe>
+
 
 ## 📫 How to Reach Me
 - **Portfolio:** [My portfolio]([https://www.linkedin.com/in/esther-wangari-kariuki/](https://www.estherk.site/)
