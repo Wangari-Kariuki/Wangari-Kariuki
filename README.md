@@ -1,13 +1,11 @@
-
-
 <p align="center">
   <a href="https://github.com/Wangari-Kariuki">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Wangari%20Kariuki" alt="Hello! I&#39;m Wangari Kariuki" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=565&height=44&lines=I'm%20a%20full%20stack%20software%20developer;I%20make%20user%20centered%20web%20tools." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=A%20Computer%20Science%20student%20currently%20building%20full-stack%20healthcare%20and%20productivity%20applications." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -61,6 +59,7 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Wangari-Kariuki">Wangari-Kariuki</a></i></p>
+
 
 ## 🔧 My Projects
 ### https://my-portfolio-wangari-kariuki-wangari-kariukis-projects.vercel.app/
