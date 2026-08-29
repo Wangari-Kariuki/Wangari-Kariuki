@@ -1,4 +1,4 @@
-# Hi! I'm Esther Wangari Kariuki 👋🏽,Computer Science student building full-stack healthcare and productivity applications. Currently focused on React, Django,and cloud deployment.**
+
 
 <p align="center">
   <a href="https://github.com/Wangari-Kariuki">
