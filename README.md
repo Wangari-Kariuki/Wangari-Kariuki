@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Wangari-Kariuki">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Wangari%20Kariuki" alt="Hello! I&#39;m Wangari Kariuki" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Wangari%20Kariuki" alt="Hello! I&#39;m Esther Kariuki" />
   </a>
 </p>
 
